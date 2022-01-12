@@ -1,5 +1,6 @@
 # PolicyPlotter-User-Interface-for-Plotting-Board-Charts
 Policy Plotter – R Shiny Application: 
+
 Solved a core problem facing the Federal Reserve Board by independently developing a plotting application to vastly increase the efficiency of creating charts/exhibits for The Federal Open Market Committee (FOMC). This committee determines monetary policy for the United States. I automated the process of chart creation which draws focus away from data and code integrity. 
  
 Motivation:
