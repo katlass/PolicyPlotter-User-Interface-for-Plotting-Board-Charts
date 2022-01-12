@@ -7,8 +7,8 @@ Motivation:
 
 ●	This application eliminates the need for this process. With this new application, anyone regardless of technical background can quickly and easily make exhibits. 
 
-
-
+\n
+\n
 Technical Achievements:
 
 ●	Solely built out the user interface, server, and plotting function underlying the charts in R.
